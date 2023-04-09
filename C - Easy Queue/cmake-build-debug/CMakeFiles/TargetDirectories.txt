@@ -1,0 +1,3 @@
+/Users/omarradwan/Documents/Problem solving/Sheet1/C - Easy Queue/cmake-build-debug/CMakeFiles/C___Easy_Queue.dir
+/Users/omarradwan/Documents/Problem solving/Sheet1/C - Easy Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarradwan/Documents/Problem solving/Sheet1/C - Easy Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
