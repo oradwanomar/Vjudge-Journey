@@ -1,0 +1,3 @@
+/Users/omarradwan/Documents/Problem solving/Sheet1/G - Jzzhu and Children/cmake-build-debug/CMakeFiles/G___Jzzhu_and_Children.dir
+/Users/omarradwan/Documents/Problem solving/Sheet1/G - Jzzhu and Children/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarradwan/Documents/Problem solving/Sheet1/G - Jzzhu and Children/cmake-build-debug/CMakeFiles/rebuild_cache.dir
