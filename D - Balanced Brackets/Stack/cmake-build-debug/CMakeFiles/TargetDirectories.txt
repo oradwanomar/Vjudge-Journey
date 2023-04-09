@@ -1,0 +1,3 @@
+/Users/omarradwan/Documents/Problem solving/Sheet1/D - Balanced Brackets/Stack/cmake-build-debug/CMakeFiles/Stack.dir
+/Users/omarradwan/Documents/Problem solving/Sheet1/D - Balanced Brackets/Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarradwan/Documents/Problem solving/Sheet1/D - Balanced Brackets/Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
