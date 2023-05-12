@@ -1,0 +1,3 @@
+/Users/omarradwan/Documents/Problem solving/Sheet3/G - Palindrome with leading zeros/cmake-build-debug/CMakeFiles/G___Palindrome_with_leading_zeros.dir
+/Users/omarradwan/Documents/Problem solving/Sheet3/G - Palindrome with leading zeros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarradwan/Documents/Problem solving/Sheet3/G - Palindrome with leading zeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/omarradwan/Documents/Problem solving/Sheet3/E - Compare the Triplets/cmake-build-debug/CMakeFiles/E___Compare_the_Triplets.dir
+/Users/omarradwan/Documents/Problem solving/Sheet3/E - Compare the Triplets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarradwan/Documents/Problem solving/Sheet3/E - Compare the Triplets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
