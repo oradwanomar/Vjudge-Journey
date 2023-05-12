@@ -1,0 +1,3 @@
+/Users/omarradwan/Documents/Problem solving/Sheet3/C - Electronics Shop/cmake-build-debug/CMakeFiles/C___Electronics_Shop.dir
+/Users/omarradwan/Documents/Problem solving/Sheet3/C - Electronics Shop/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarradwan/Documents/Problem solving/Sheet3/C - Electronics Shop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
