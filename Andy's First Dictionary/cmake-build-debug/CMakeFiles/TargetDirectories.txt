@@ -1,0 +1,3 @@
+/Users/omarradwan/Documents/Problem solving/Sheet2/Andy's First Dictionary/cmake-build-debug/CMakeFiles/Andy_s_First_Dictionary.dir
+/Users/omarradwan/Documents/Problem solving/Sheet2/Andy's First Dictionary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omarradwan/Documents/Problem solving/Sheet2/Andy's First Dictionary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
